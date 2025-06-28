@@ -616,8 +616,8 @@ export const songs: Song[] = [
     artist: "AP Dhillon",
     duration: "3:35",
     album: "Majhail",
-    coverUrl: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
-    audioUrl: "https://freesound.org/data/previews/277/277734_3263906-lq.mp3",
+    coverUrl: "https://cover.mr-jatt.im/thumb/489223/Majhail-1.jpg",
+    audioUrl: "https://cdnsongs.com/dren/music/data/Single_Track/202006/Majhail/320/Majhail_1.mp3/Majhail.mp3",
     isOffline: true,
     language: "Punjabi"
   },
